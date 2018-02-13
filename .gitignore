@@ -1,0 +1,9 @@
+/target/
+*.log
+LOG_FILE_IS_UNDEFINED
+
+.springBeans
+.idea/
+.eclipse/
+*.iml
+**/.DS_Store
